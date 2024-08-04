@@ -5,11 +5,14 @@
 ## Datasets
 ### 💾 KITTI Dataset
 
-🔹 You can download the entire [raw KITTI dataset](http://www.cvlibs.net/datasets/kitti/raw_data.php) by running:
+🔹 Please refer to the [raw KITTI dataset](http://www.cvlibs.net/datasets/kitti/raw_data.php) for downloading the kitti Dataset.
 ### 💾 nuScenes Dataset
 
-🔹 Please refer to the [official website](https://www.nuscenes.org) for downloading the nuScenes Dataset, including `Full dataset (v1.0)` and `nuScenes-panoptic`. Once downloaded and unzipped to `data_dir/nuscenes`, you should be able to obtain following directoy sturcture.
+🔹 Please refer to the [nuScenes official website](https://www.nuscenes.org) for downloading the nuScenes Dataset.
 
+### 💾 DDAD Dataset
+
+🔹 Please refer to the [ddad](https://github.com/TRI-ML/DDAD?tab=readme-ov-file)) for downloading the DDAD Dataset.
 
 ## Evaluation
 Scripts for evaluation are found in `eval/`, including [depth](eval/depth.py), [motion segmentation](eval/motion_segmentation.py), [odometry](eval/odometry.py), and [visualization](eval/visualize.py).
