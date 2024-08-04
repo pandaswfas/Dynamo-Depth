@@ -12,7 +12,7 @@
 
 ### 💾 DDAD Dataset
 
-🔹 Please refer to the [ddad](https://github.com/TRI-ML/DDAD?tab=readme-ov-file)) for downloading the DDAD Dataset.
+🔹 Please refer to the [ddad](https://github.com/TRI-ML/DDAD?tab=readme-ov-file) for downloading the DDAD Dataset.
 
 ## Evaluation
 Scripts for evaluation are found in `eval/`, including [depth](eval/depth.py), [motion segmentation](eval/motion_segmentation.py), [odometry](eval/odometry.py), and [visualization](eval/visualize.py).
