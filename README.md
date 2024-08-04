@@ -74,13 +74,6 @@ python3 eval/visualize.py -l ckpt/N_Dynamo-Depth -d nuscenes
 ```
 
 
-## Citation
-If you find our work useful in your research, please consider citing our paper:
-```
-@inproceedings{sun2023dynamodepth,
-  title={Dynamo-Depth: Fixing Unsupervised Depth Estimation for Dynamical Scenes},
-  author={Yihong Sun and Bharath Hariharan},
-  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-  year={2023}
-}
-```
+## Notice
+Our complete code will be revised after the paper is published.
+The test program is complete and some weights have been uploaded.
