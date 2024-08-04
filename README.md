@@ -2,6 +2,15 @@
 
 ![绘图1 - 副本](https://github.com/user-attachments/assets/ec4c5225-d1d0-4829-994b-95b0cfa71fec)
 
+## Datasets
+### 💾 KITTI Dataset
+
+🔹 You can download the entire [raw KITTI dataset](http://www.cvlibs.net/datasets/kitti/raw_data.php) by running:
+### 💾 nuScenes Dataset
+
+🔹 Please refer to the [official website](https://www.nuscenes.org) for downloading the nuScenes Dataset, including `Full dataset (v1.0)` and `nuScenes-panoptic`. Once downloaded and unzipped to `data_dir/nuscenes`, you should be able to obtain following directoy sturcture.
+
+
 ## Evaluation
 Scripts for evaluation are found in `eval/`, including [depth](eval/depth.py), [motion segmentation](eval/motion_segmentation.py), [odometry](eval/odometry.py), and [visualization](eval/visualize.py).
 
