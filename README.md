@@ -62,17 +62,6 @@ python3 eval/depth.py -l ckpt/N_Dynamo-Depth_MD2 --depth_model monodepthv2 -d nu
 Note that by adding `--split nuscenes_dayclear`, we evaluate on the nuScenes day-clear subset as defined in `splits/nuscenes_dayclear/test_files.txt` instead of the original `splits/nuscenes/test_files.txt`
 
 
-### 🖼️ Visualization
-[eval/visualize.py](eval/visualize.py) visualize model performances, with results saved  in `./outputs/<CKPT>_<DATASET>/vis/`.
-
-🔹 To generate the _Qualitative Results_ in the [Project Page](https://dynamo-depth.github.io), run the following line.
-```
-## === Missing checkpoints will be downloaded automatically === ##
-
-python3 eval/visualize.py -l ckpt/W_Dynamo-Depth                                   ## please fill out the form for ckpt!!     
-python3 eval/visualize.py -l ckpt/N_Dynamo-Depth -d nuscenes
-```
-
 
 ## Notice
 Our complete code will be revised after the paper is published.
