@@ -42,7 +42,6 @@ python3 eval/depth.py -l ckpt/K_Dynamo-Depth_MD2 --depth_model monodepthv2 -d ki
 
 |     Model     |   Dataset |  Abs Rel  |   Sq Rel  |    RMSE   |  RMSE log | delta < 1.25 | delta < 1.25<sup>2</sup> | delta < 1.25<sup>3</sup> |
 |:-------------------------:|:------:|:---------:|:---------:|:---------:|:---------:|:------------:|:--------------:|:--------------:|
-vx4u
 |  [KITTI_MD2]( https://pan.baidu.com/s/1NccK2jafE_US2GF8NyTPqQ?pwd=vx4u)  |  KITTI  | 0.117  |  0.842  |  4.848  |  0.193  |  0.869  |  0.958  |  0.982   |
 |  [KITTI_LM](https://pan.baidu.com/s/1s0DImH-uKpkVTpHuTtBcng) |  KITTI   | 0.107  |  0.824  |  4.648  |  0.184  |  0.886  |  0.962  |  0.983   |
 |  [nuScenes_MD2]( https://pan.baidu.com/s/1fyHEQDdR5l8zH1kfMkWq5g?pwd=38ay)  |  nuScenes  |  0.145  |  1.416  |  7.092  |  0.245  |  0.802  |  0.921  |  0.967  |
