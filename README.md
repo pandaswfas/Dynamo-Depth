@@ -44,9 +44,9 @@ python3 eval/depth.py -l ckpt/K_Dynamo-Depth_MD2 --depth_model monodepthv2 -d ki
 |:-------------------------:|:------:|:---------:|:---------:|:---------:|:---------:|:------------:|:--------------:|:--------------:|
 |  [KITTI_MD2]( https://pan.baidu.com/s/1NccK2jafE_US2GF8NyTPqQ?pwd=vx4u)  |  KITTI  | 0.117  |  0.842  |  4.848  |  0.193  |  0.869  |  0.958  |  0.982   |
 |  [KITTI_LM] |  KITTI   | 0.107  |  0.824  |  4.648  |  0.184  |  0.886  |  0.962  |  0.983   |
-|  [nuScenes_MD2]( https://pan.baidu.com/s/1fyHEQDdR5l8zH1kfMkWq5g?pwd=38ay)  |  nuScenes  |  0.145  |  1.416  |  7.092  |  0.245  |  0.802  |  0.921  |  0.967  |
+|  [nuScenes_MD2](https://pan.baidu.com/s/1s0DImH-uKpkVTpHuTtBcng) |  nuScenes  |  0.145  |  1.416  |  7.092  |  0.245  |  0.802  |  0.921  |  0.967  |
 |  [nuScenes_LM]  |  nuScenes   |  0.147  |  1.423  |  6.871  |  0.243  |  0.800  |  0.922  |  0.968  |
-|  [DDAD_MD2](https://pan.baidu.com/s/1s0DImH-uKpkVTpHuTtBcng)  |  DDAD |  0.166  |  3.643  |  17.291  |  0.286  |  0.764  |  0.902  |  0.949  |
+|  [DDAD_MD2](https://pan.baidu.com/s/1fyHEQDdR5l8zH1kfMkWq5g?pwd=38ay)  |  DDAD |  0.166  |  3.643  |  17.291  |  0.286  |  0.764  |  0.902  |  0.949  |
 |  [DDAD_LM]  |  DDAD   |  0.152  |  3.519  |  14.684  |  0.244  |  0.805  |  0.928  |  0.968  |
 
 (*) Very minor differences compared to the results in the paper. Rest of the checkpoints are consistent with the paper.  
